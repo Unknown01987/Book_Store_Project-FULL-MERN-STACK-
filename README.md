@@ -1,4 +1,4 @@
-# 📚 Book Store (MERN Stack)
+# 📚 Book Store (Using MERN Stack)
 
 ## Overview
 Book Store is a **MERN stack** project that allows users to **Create, Edit, Delete, Inspect, Summary of books** with interactive icons. It also features **two viewing modes**:
